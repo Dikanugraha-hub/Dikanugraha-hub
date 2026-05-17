@@ -67,11 +67,6 @@
 </p>
 
 <p align="center">
-  <!-- Top Languages: Menampilkan bahasa pemrograman yang sedang aktif digunakan -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Dikanugraha-hub&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Dika's GitHub Stats" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dikanugraha-hub&theme=tokyonight&hide_border=true" alt="Dika's GitHub Streak" />
-</p>
-
-<p align="center">
   <!-- Activity Graph: Menampilkan grafik visual dari aktivitas dan commit terbaru -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dikanugraha-hub&theme=tokyo-night&hide_border=true" alt="Dika's Activity Graph" />
 </p>
