@@ -63,10 +63,10 @@
 ### 📈 GitHub Stats
 <p align="center">
   <!-- GitHub Streak: Menampilkan seberapa aktif kontribusi harian dan rekor tanpa putus -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dikanugraha-hub&theme=tokyonight&hide_border=true" alt="Dika's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dikanugraha-hub&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" alt="Dika's GitHub Stats" />
 </p>
 
 <p align="center">
   <!-- Activity Graph: Menampilkan grafik visual dari aktivitas dan commit terbaru -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dikanugraha-hub&theme=tokyo-night&hide_border=true" alt="Dika's Activity Graph" />
+  <img src="https://ghchart.rshah.org/Dikanugraha-hub" alt="Dika's Contribution Grid" />
 </p>
