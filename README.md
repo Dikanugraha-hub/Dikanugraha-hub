@@ -61,7 +61,7 @@
 ---
 
 ### 📈 GitHub Stats
-<p allign="center">
+<p align="center">
   <img src="https://ghchart.rshah.org/Dikanugraha-hub" alt="Dika's Contribution Grid" />
 </p>
 
